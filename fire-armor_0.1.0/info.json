@@ -1,0 +1,12 @@
+{
+    "name": "fire-armor",
+    "version": "0.1.0",
+    "title": "Fire Armor",
+    "author": "Jeremy Miller",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "This mod adds fire armor that leaves behind damaging fire as you walk around.",
+    "homepage": "https://github.com/jeremy-miller/factorio-fire-armor"
+}
